@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Puneet Tiwari",
+    role: "CSE Undergrad",
+    image: "https://avatars.githubusercontent.com/u/87643670?s=4",
+    skills: ['Machine Learning','Deep Learning','Web Development'],
+    link: [
+      "https://github.com/puneettiwari213",
+      "https://www.linkedin.com/in/puneettiwari6/",
+      "https://twitter.com/Puneetrewa1",
+    ],
+  }
 ];
 
 export default data;
